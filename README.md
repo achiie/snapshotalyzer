@@ -1,0 +1,2 @@
+# snapshotalyzer
+for aws snapshots
